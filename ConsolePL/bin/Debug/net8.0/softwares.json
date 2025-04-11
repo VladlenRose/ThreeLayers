@@ -1,0 +1,38 @@
+{
+  "0": {
+    "$type": "FreeSoftware",
+    "Id": 0,
+    "Name": "FreeApp",
+    "Developer": "FreeDev"
+  },
+  "1": {
+    "$type": "PartlyFreeSoftware",
+    "ExpirationDate": "2025-05-11T23:32:20.1983017+04:00",
+    "Id": 1,
+    "Name": "PartlyFreeApp",
+    "Developer": "PartlyFreeDev"
+  },
+  "2": {
+    "$type": "CommercialSoftware",
+    "ExpirationDate": "2026-04-11T23:32:20.2216022+04:00",
+    "Price": 1000,
+    "Id": 2,
+    "Name": "CommercialApp",
+    "Developer": "CommercialDev"
+  },
+  "3": {
+    "$type": "PartlyFreeSoftware",
+    "ExpirationDate": "2025-04-10T23:32:20.2220411+04:00",
+    "Id": 3,
+    "Name": "ExpiredPartlyFreeApp",
+    "Developer": "ExpiredPartlyFreeDev"
+  },
+  "4": {
+    "$type": "CommercialSoftware",
+    "ExpirationDate": "2025-04-11T22:32:20.2220706+04:00",
+    "Price": 999,
+    "Id": 4,
+    "Name": "ExpiredCommercialApp",
+    "Developer": "ExpiredCommercialDev"
+  }
+}
